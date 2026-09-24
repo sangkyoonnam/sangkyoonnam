@@ -4,13 +4,13 @@
 
 # Sangkyoon Nam
 
-I'm a Staff Engineer and AI Product Builder — designing systems that power real products.
+I'm a software engineer designing systems that power real products.
 
-I spent 12 years at NBT as Director of Engineering, where I built Korea's #1 rewarded ad platform, AdiSON — scaling it to 10M+ MAU and 45% market share, and leading the engineering organization through a successful KOSDAQ listing.
+I spent 12 years at NBT, where I served as Director of Engineering and led the development of AdiSON, Korea's #1 rewarded advertising platform. We scaled it to over 10 million monthly active users and 45% market share, and I led the engineering organization through the company's KOSDAQ listing.
 
-Now at Datarize, going back to zero to one — working across Data, Backend, and AI to build systems that connect the right products to the right customers.
+Now at Datarize, I work across engineering to build real-time systems that connect the right products with the right customers.
 
-Great engineering isn't about shipping code — it's about creating value that actually matters. If any of this resonates, let's grab a coffee.
+For me, great engineering means creating value for the people who use what we build. If any of this resonates, let's grab a coffee.
 
 ---
 
