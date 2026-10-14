@@ -1,31 +1,15 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangkyoonnam/)](https://www.linkedin.com/in/sangkyoonnam/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangkyoon.nam@namsang.co)](mailto:sangkyoon.nam@namsang.co)
-[![Blog Badge](https://img.shields.io/badge/-Blog-09090b?style=flat-square&logo=hashnode&logoColor=white&link=https://blog.namsang.co)](https://blog.namsang.co)
-
 # Sangkyoon Nam
 
-I'm a software engineer designing systems that power real products.
+I build backend platforms and the teams behind them.
 
-I spent 12 years at NBT, where I served as Director of Engineering and led the development of AdiSON, Korea's #1 rewarded advertising platform. We scaled it to over 10 million monthly active users and 45% market share, and I led the engineering organization through the company's KOSDAQ listing.
+I spent twelve years at NBT, where I led AdiSON development and ran the engineering organization through the company's KOSDAQ listing. AdiSON is Korea's largest rewarded-ad offerwall by market share, integrated into apps including Naver Webtoon, Naver Pay, KakaoTalk, Toss and Baemin. At Datarize, I built the foundation platform (API gateway, identity and core services) and event-triggered messaging.
 
-Now at Datarize, I work across engineering to build real-time systems that connect the right products with the right customers.
+I'm applying what I learned running large-scale, real-time backends to AI agents, so interrupted runs can resume and failures can be traced. In open source, I work on durable execution and model routing in [Apache Flink Agents](https://github.com/apache/flink-agents/pulls?q=is%3Apr+author%3Asangkyoonnam), GenAI instrumentation (OpenAI, LangChain) in [OpenTelemetry](https://github.com/pulls?q=is%3Apr+author%3Asangkyoonnam+org%3Aopen-telemetry), and agent framework integrations (LangGraph, Google ADK) for [Temporal](https://github.com/pulls?q=is%3Apr+author%3Asangkyoonnam+org%3Atemporalio).
 
-For me, great engineering means creating value for the people who use what we build. If any of this resonates, let's grab a coffee.
+I write essays in Korean, English and Japanese at [Namsang LABS](https://blog.namsang.co). Recent ones:
 
----
+- [Compilation, Not Retrieval: Karpathy's LLM Wiki](https://blog.namsang.co/en/posts/karpathy-llm-wiki/)
+- [Why Individual OKRs Don't Work](https://blog.namsang.co/en/posts/why-individual-okrs-dont-work/)
+- [Accounting Through Code: Rounding Is Policy](https://blog.namsang.co/en/posts/rounding-is-policy/)
 
-## 📝 Blog — [Namsang LABS](https://blog.namsang.co)
-
-> think in systems. ship what matters.
-
-Engineering essays in 한국어 / English / 日本語.
-
-### Recent posts
-
-- [Compilation, Not Retrieval — Karpathy's LLM Wiki](https://blog.namsang.co/en/posts/karpathy-llm-wiki/) · *Radar*
-- [Ship of Theseus](https://blog.namsang.co/en/posts/ship-of-theseus/) · *Memo*
-- [Why Individual OKRs Don't Work](https://blog.namsang.co/en/posts/why-individual-okrs-dont-work/) · *Deep Dive*
-- [DeNA's "AI All-In" One Year Later](https://blog.namsang.co/en/posts/dena-ai-all-in-one-year/) · *Radar*
-- [Accounting Through Code: Rounding Is Policy](https://blog.namsang.co/en/posts/rounding-is-policy/) · *Deep Dive*
-
-→ More at [blog.namsang.co](https://blog.namsang.co)
+If any of this overlaps with your work, let's grab a coffee. Reach me by [email](mailto:sangkyoon.nam@namsang.co) or on [LinkedIn](https://www.linkedin.com/in/sangkyoonnam/).
