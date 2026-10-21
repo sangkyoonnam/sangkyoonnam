@@ -8,7 +8,7 @@ At Datarize I stood up the foundation platform that the rest of the system runs 
 
 These days I'm applying what years of running large, real-time backends taught me to AI agents. The goal is easy to state and hard to get right: an interrupted run should pick up where it left off, and a failure should tell you why. In open source, I contribute to [Apache Flink](https://github.com/search?q=is%3Apr+author%3Asangkyoonnam+repo%3Aapache%2Fflink&type=pullrequests), primarily through its [Flink Agents](https://github.com/search?q=is%3Apr+author%3Asangkyoonnam+repo%3Aapache%2Fflink-agents&type=pullrequests) subproject, where I work on durable execution and model routing. I also work on GenAI instrumentation and semantic conventions in [OpenTelemetry](https://github.com/search?q=is%3Apr+author%3Asangkyoonnam+org%3Aopen-telemetry&type=pullrequests), and on the Java SDK and agent framework integrations (LangGraph, Google ADK) for [Temporal](https://github.com/search?q=is%3Apr+author%3Asangkyoonnam+org%3Atemporalio&type=pullrequests).
 
-I write essays in Korean, English and Japanese at [Namsang LABS](https://blog.namsang.co). A few of them:
+I write essays in Korean, English and Japanese at [Namsang Labs](https://blog.namsang.co). A few of them:
 
 - [Why FastAPI's scoped_session Quietly Causes Broken Pipes](https://blog.namsang.co/en/posts/fastapi-scoped-session-broken-pipe/)
 - [ObservabilityCON 2026 Keynote, Grafana Has Started Opening PRs](https://blog.namsang.co/en/posts/observabilitycon-2026-keynote/)
