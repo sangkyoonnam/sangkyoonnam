@@ -1,6 +1,6 @@
 # Sangkyoon Nam
 
-I'm a software engineer. I build large-scale platforms, from ads and CRM to AI agents, and lead the teams that run them.
+I'm a software engineer and CTO at Saladlab. I build large-scale platforms, from ads and CRM to AI agents, and lead the teams that run them.
 
 I spent twelve years at NBT, from founding engineer to director of engineering. I built AdiSON, a B2B ad platform, and headed its engineering through the company's KOSDAQ listing. AdiSON is the largest rewarded-ad offerwall in Korea, with 45% market share and over 10 million monthly active users, and you'll find it inside Naver Webtoon, Naver Pay, KakaoTalk, Toss, and Baemin.
 
